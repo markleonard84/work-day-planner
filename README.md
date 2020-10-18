@@ -11,7 +11,7 @@ To create a simple planning application that allows the user to plan out the wor
 ---
 You can access the application at https://markleonard84.github.io/work-day-planner/
 
-![Day-Planner](assets/work-day-planner.png)
+![Day-Planner](Assets/work-day-planner.png)
 
 The application was written using:
 * Visual Studio Code
